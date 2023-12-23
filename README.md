@@ -1,10 +1,10 @@
-![MasterHead](https://www.newus.in/static/media/full-stack-program-at-newus-Dharamsala.7835ddbfd9d23e02b60c.gif)
+[![MasterHead](https://www.newus.in/static/media/full-stack-program-at-newus-Dharamsala.7835ddbfd9d23e02b60c.gif)
 <h1 align="center">Hi 👋, I'm Atakan Doğan</h1>
 <h3 align="center">A passionate full stack developer from Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atakandgn&label=Profile%20views&color=2ba0e9&style=flat" alt="atakandgn" /> </p>
+<img align="right" height="175" src="https://i.kym-cdn.com/photos/images/newsfeed/002/041/952/49e.gif"  />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atakandgn" alt="atakandgn" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atakandgn&label=Profile%20views&color=2ba0e9&style=flat" alt="atakandgn" /> </p>
 
 - 🔭 I’m currently working on **fullstack projects.**
 
