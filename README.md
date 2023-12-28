@@ -1,4 +1,7 @@
-![MasterHead](https://www.newus.in/static/media/full-stack-program-at-newus-Dharamsala.7835ddbfd9d23e02b60c.gif)
+<div align="center">
+    <img src="https://www.newus.in/static/media/full-stack-program-at-newus-Dharamsala.7835ddbfd9d23e02b60c.gif" alt="MasterHead" width="100%">
+</div>
+
 <h1 align="center">Hi 👋, I'm Atakan Doğan</h1>
 <h3 align="center">A passionate full stack developer from Turkey.</h3>
 
