@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Atakan Doğan</h1>
-<h3 align="center">A passionate full stack developer from Turkey.</h3>
+<h3 align="center">Passionate Software Engineer: Crafting Excellence in Full Stack Development with Precision and Devotion</h3>
 
 <img align="right" height="175" src="https://i.kym-cdn.com/photos/images/newsfeed/002/041/952/49e.gif"  />
 
